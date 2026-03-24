@@ -20,7 +20,7 @@ A cross-platform malicious file detection and analysis tool that identifies pote
 ## 🎥 Demo
 
 👉 Watch the demo here:
-[https://your-demo-video-link](https://your-demo-video-link)
+[HexSentinel - Malicious File Detection Tool](https://www.youtube.com/watch?v=-M2KmCVCNyo)
 
 ---
 
