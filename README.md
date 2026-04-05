@@ -1,4 +1,4 @@
-# 🛡️ HexSentinel
+# 🛡️ HexSentinel - File Signature & Malware Detection Tool
 
 A cross-platform malicious file detection and analysis tool that identifies potential threats using **magic number validation**, **file extension analysis**, and **heuristic checks**, along with a **bypass simulation module** to study evasion techniques used in real-world scenarios.
 
